@@ -26,14 +26,15 @@ according to the IELTS:
   - If your overall score is an average of 6.25, your score will be increased to 6.5.
   The score 6.25 is actually precisely between band 6 and 6.5, so in this case 
   IELST pushes it up to the nearest score which is 6.5.
-
----
-
-## Result
-![Result](https://github.com/Hamroliyev/IELTSBandScores/blob/main/Assets/result.gif)
   - If your overall score is an average of 6.75, your score will be increased to 7.
   The score 6.25 is actually precisely between bands 6.5 and 7. In this case, your score
   will be rounded up to band 7.
   - As you can see above, your score is rounded up or down to the nearest 0.5 or 
   the whole score as shown above. You can confirm this information on the official 
   BC IELTS Website : **[click here](https://www.britishcouncil.org.tr/en/exam/ielts/calculator)**
+
+
+---
+
+## Result
+![Result](https://github.com/Hamroliyev/IELTSBandScores/blob/main/Assets/result.gif)
